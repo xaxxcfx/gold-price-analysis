@@ -16,9 +16,9 @@ def load_data(filepath):
     """
     df = pd.read_csv(filepath)
 
-    # Convert date column to datetime
+    # Convert date column to datetime (format: DD-MM-YY)
     if 'Date' in df.columns:
-        df['Date'] = pd.to_datetime(df['Date'])
+        df['Date'] = pd.to_datetime(df['Date'], format='%d-%m-%y')
 
     return df
 
