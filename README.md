@@ -184,8 +184,7 @@ This project is licensed under the MIT License.
 
 ## Author
 
-Your Name - [your.email@example.com](mailto:your.email@example.com)
-
+anmol chauhan mail at(chauhananmol662@gmail.com)
 ---
 
 **⭐ Star this repo if you find it useful!**
